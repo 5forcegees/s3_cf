@@ -1,0 +1,6 @@
+config:
+  aws:region: ap-southeast-2
+  s3_cf:aws_account_number: "915922766016"
+  s3_cf:errorDocument: error.html
+  s3_cf:indexDocument: index.html
+  s3_cf:path: ./www
